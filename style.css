@@ -4,7 +4,7 @@ fieldset {
 
 body {
     background-image: url("metro.jpg");
-    background-size: contain;
+    background-size: auto;
     background-repeat: no-repeat;
     font-family: 'Oxygen', sans-serif;
     font-weight: bold;
