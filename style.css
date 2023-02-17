@@ -3,10 +3,8 @@ fieldset {
     }
 
 body {
-    background-image: url("image.jpg")
-    background-color: #F99417;
+    background-image: url("image.jpg");
     background-size: cover;
-    height: 100vh;
     font-family: 'Oxygen', sans-serif;
     font-weight: bold;
     text-align: center;
