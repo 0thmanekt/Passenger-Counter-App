@@ -3,7 +3,7 @@ fieldset {
     }
 
 body {
-    background-image: url("image.jpg");
+    background: url("metro.jpg") no-repeat center center fixed;    
     background-size: cover;
     font-family: 'Oxygen', sans-serif;
     font-weight: bold;
